@@ -1,6 +1,5 @@
-import React, { useEffect } from 'react'
+import React from 'react';
 
-import { Progress, Carousel } from 'antd';
 const FourthSection = (props) => {
 
     return (

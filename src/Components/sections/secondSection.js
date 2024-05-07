@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React from 'react';
 import Profile from '../../assets/img/profile-img.jpg';
 
 const SecondSection = (props) => {

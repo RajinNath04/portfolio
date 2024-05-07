@@ -1,6 +1,6 @@
-import React, { useEffect } from 'react'
-import Svg from '../svg/index';
+import React from 'react';
 import Typed from 'react-typed';
+import Svg from '../svg/index';
 
 const FirstSection = (props) => {
 

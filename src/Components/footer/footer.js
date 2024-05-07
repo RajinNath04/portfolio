@@ -1,5 +1,4 @@
-import React, { useEffect } from 'react'
-import Svg from '../svg/index';
+import React from 'react'
 
 const Footer = (props) => {
 

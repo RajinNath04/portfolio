@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React from 'react';
 import PortFolioOne from '../../assets/img/portfolio/portfolio-1.jpg';
 import PortFolioTwo from '../../assets/img/portfolio/portfolio-2.jpg';
 import PortFolioThree from '../../assets/img/portfolio/portfolio-3.jpg';

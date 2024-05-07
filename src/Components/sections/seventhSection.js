@@ -1,6 +1,6 @@
-import React, { useEffect } from 'react'
+import React from 'react';
 
-import { Progress, Carousel } from 'antd';
+import { Carousel } from 'antd';
 import TestimonialOne from '../../assets/img/testimonials/testimonials-1.jpg';
 import TestimonialTwo from '../../assets/img/testimonials/testimonials-2.jpg';
 import TestimonialThree from '../../assets/img/testimonials/testimonials-3.jpg';
